@@ -1,0 +1,24 @@
+{
+  "name": "ts-discord-bot",
+  "version": "1.0.0",
+  "description": "A simple and elegant TypeScript Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gutoso/ts-discord-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gutoso/ts-discord-bot/issues"
+  },
+  "homepage": "https://github.com/gutoso/ts-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
